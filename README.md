@@ -2,7 +2,7 @@
 - 👀 I’m interested in program mobile apps 
 - 🌱 I’m currently learning programming and will start a course of Swift in Udemy.
 - 💞️ I’m looking to collaborate on Apple apps
-- 📫 How to reach me ... 
+- 📫 How to reach me in carlos.glez.cue@gmail.com
 
 <!---
 CarlosGlezC/CarlosGlezC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
